@@ -13,7 +13,7 @@
     <!--
     Hello Tomcat server!!!
       Eplicitly declag e source codng fng msg: [WARNING] Using platform encoding
-      (UTF-8 actuallly) to copy filtered ,...... i.e. build is platform dependenency
+      (UTF-8 actuallly) to copy filtered ,...... i.e. build is platform dependenencyin it
     -->
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
